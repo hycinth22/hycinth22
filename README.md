@@ -59,16 +59,19 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      18 mins             █████████████████░░░░░░░░   68.34% 
+JSON                     8 mins              ████████░░░░░░░░░░░░░░░░░   31.66% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          27 mins             █████████████████████████   100.0% 
+blog-hexo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  27 mins             █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +92,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunasnow/sunasnow/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 08:38:17 UTC
+ Last Updated on 07/03/2022 08:37:25 UTC
 <!--END_SECTION:waka-->
