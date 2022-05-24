@@ -61,17 +61,16 @@ Sunday       26 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NJF5-douyin              10 mins             █████████████████████████   100.0% 
-kitex-examples           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+kitex-examples           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -92,5 +91,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pastral1024/pastral1024/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 08:43:12 UTC
+ Last Updated on 24/05/2022 08:41:28 UTC
 <!--END_SECTION:waka-->
