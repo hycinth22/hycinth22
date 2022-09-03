@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
+> 🏆 51 Contributions in the Year 2022
+ > 
 > 📦 164.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -90,5 +92,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hycinth22/hycinth22/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 08:42:34 UTC
+ Last Updated on 03/09/2022 08:41:36 UTC
 <!--END_SECTION:waka-->
