@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
@@ -32,6 +32,48 @@ Here are some ideas to get you started:
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+🌆 Daytime    71 commits     █████████████░░░░░░░░░░░░   54.2% 
+🌃 Evening    42 commits     ████████░░░░░░░░░░░░░░░░░   32.06% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.9% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
+Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
+Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Saturday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Sunday       26 commits     █████░░░░░░░░░░░░░░░░░░░░   19.85%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -49,5 +91,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hycinth22/hycinth22/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 08:39:38 UTC
+ Last Updated on 05/09/2022 08:41:07 UTC
 <!--END_SECTION:waka-->
