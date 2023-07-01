@@ -1,7 +1,7 @@
 <div align="center">
  
 ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)
-![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg)
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=pie&langs_count=9" >
 
