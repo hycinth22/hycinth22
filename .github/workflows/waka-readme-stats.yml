@@ -19,3 +19,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_COMMIT: "False"
+          SHOW_LOC_CHART : "False"
+          SHOW_PROJECTS : "False"
