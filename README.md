@@ -1,11 +1,9 @@
-[![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <!-- [![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) --> [![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-<!--
-[![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)]
 
-<a href="https://wakatime.com/@hycinth22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=30" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=pie&langs_count=9) 
+
+
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg)
 
 
 ### Hi there 👋
