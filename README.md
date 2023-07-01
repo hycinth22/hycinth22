@@ -3,8 +3,9 @@
 <!--
 [![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=30)
-
+<a href="https://wakatime.com/@hycinth22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=30" />
+</a>
 
 
 ### Hi there 👋
