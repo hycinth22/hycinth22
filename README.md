@@ -100,5 +100,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 <div align="center">
  
-![]()
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=10)
+
 </div>
