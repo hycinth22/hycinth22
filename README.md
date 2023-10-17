@@ -1,23 +1,7 @@
-<div align="center"> <img src="https://metrics.lecoq.io/hycinth22?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hycinth22" /> </div>
-
-<div align="center">
- 
-![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)
-![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)
-
-</div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hycinth22" /> </div>
-
-
 ### Hi there 👋
 
 <!--
-**pinelliar/pinelliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -102,3 +86,19 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=10)
 
 </div>
+
+<div align="center"> <img src="https://metrics.lecoq.io/hycinth22?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hycinth22" /> </div>
+
+<div align="center">
+ 
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)
+
+</div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hycinth22" /> </div>
+
