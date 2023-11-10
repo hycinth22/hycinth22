@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -51,13 +51,16 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      46 mins             ███████████████████████░░   93.38 % 
+ObjectiveC               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -73,7 +76,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2023 08:29:20 UTC
+ Last Updated on 10/11/2023 08:29:20 UTC
 <!--END_SECTION:waka-->
 
 
