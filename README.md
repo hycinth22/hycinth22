@@ -96,7 +96,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 <div align="center">
  
-![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)
 
 </div>
