@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 181.9 kB Used in GitHub's Storage 
+> 📦 180.1 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2023
+> 🏆 111 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -51,14 +51,14 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   99.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 11 mins             █████████████░░░░░░░░░░░░   50.73 % 
+Rust                     10 mins             ████████████░░░░░░░░░░░░░   49.27 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,7 +74,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 08:30:02 UTC
+ Last Updated on 14/12/2023 08:29:58 UTC
 <!--END_SECTION:waka-->
 
 
