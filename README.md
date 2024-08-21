@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C405%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C410%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 186.1 kB Used in GitHub's Storage 
+> 📦 186.3 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2024
+> 🏆 242 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -51,16 +51,17 @@ Sunday                   169 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     25 hrs 55 mins      ████████████████████████░   96.71 % 
-TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Rust                     29 hrs 25 mins      ████████████████████████░   97.15 % 
+TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -76,7 +77,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2024 08:33:17 UTC
+ Last Updated on 21/08/2024 08:33:31 UTC
 <!--END_SECTION:waka-->
 
 
