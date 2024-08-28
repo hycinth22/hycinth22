@@ -89,16 +89,12 @@ JavaScript               2 repos             █░░░░░░░░░░�
  Last Updated on 27/08/2024 08:33:57 UTC
 <!--END_SECTION:waka-->
 
-Wakatime **worktime** statistics: (anycode I wrote, not only github)
+Wakatime statistics: (only includes my github public repos)
 <div align="center">
 
-![]([https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=donut-vertical&langs_count=8))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=compact&langs_count=6)
 
 </div>
-
-
-Github **lines of code** statistics: (only includes my github public repos)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 My Github Profile Trophy's Ranking: 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hycinth22" /> </div>
