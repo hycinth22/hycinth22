@@ -92,7 +92,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 Wakatime **worktime** statistics: (anycode I wrote, not only github)
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=10)
+![]([https://github-readme-stats.vercel.app/api/wakatime?username=hycinth22&layout=compact&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=donut-vertical&langs_count=8))
 
 </div>
 
