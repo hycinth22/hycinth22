@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C465%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 240.1 kB Used in GitHub's Storage 
+> 📦 239.9 kB Used in GitHub's Storage 
  > 
-> 🏆 447 Contributions in the Year 2024
+> 🏆 451 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,18 +59,18 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     40 hrs 36 mins      ████████████████████████░   97.96 % 
-TOML                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Rust                     39 hrs 35 mins      ████████████████████████░   97.66 % 
+TOML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  40 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 1 min        █████████████████████████   98.96 % 
-Windows                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Linux                    39 hrs 46 mins      █████████████████████████   98.10 % 
+Windows                  46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +86,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 08:34:05 UTC
+ Last Updated on 31/08/2024 08:33:45 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
