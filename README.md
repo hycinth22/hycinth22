@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 240.2 kB Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2024
+> 🏆 483 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,16 +59,16 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     46 hrs 13 mins      █████████████████████████   98.02 % 
-TOML                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Rust                     40 hrs 45 mins      █████████████████████████   98.13 % 
+TOML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  41 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    46 hrs 49 mins      █████████████████████████   99.27 % 
-Windows                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Linux                    41 hrs 11 mins      █████████████████████████   99.17 % 
+Windows                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,7 +84,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2024 08:34:07 UTC
+ Last Updated on 05/09/2024 08:34:44 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
