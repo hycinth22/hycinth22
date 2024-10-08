@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 > 📦 241.3 kB Used in GitHub's Storage 
  > 
-> 🏆 555 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -59,14 +57,13 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     54 mins             █████████████████████████   99.65 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -82,7 +79,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 08:40:20 UTC
+ Last Updated on 08/10/2024 08:39:16 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
