@@ -59,14 +59,13 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████░░░░   82.70 % 
-Rust                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -82,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2024 08:42:03 UTC
+ Last Updated on 19/11/2024 08:40:56 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
