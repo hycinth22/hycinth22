@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -59,15 +59,13 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     2 hrs 48 mins       █████████████████████████   99.03 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Python                   13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        ████████████████░░░░░░░░░   63.40 % 
-RustRover                1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.60 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -83,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2025 08:39:50 UTC
+ Last Updated on 20/02/2025 08:39:46 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
