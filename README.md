@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 > 📦 243.8 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -81,7 +79,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 08:38:47 UTC
+ Last Updated on 22/02/2025 08:36:45 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
