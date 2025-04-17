@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 244.9 kB Used in GitHub's Storage 
+> 📦 245.0 kB Used in GitHub's Storage 
  > 
 > 🏆 202 Contributions in the Year 2025
  > 
@@ -59,13 +59,13 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     20 mins             █████████████████████████   100.00 % 
+Rust                     3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 08:45:31 UTC
+ Last Updated on 17/04/2025 08:44:12 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
