@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C864%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 245.0 kB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2025
+> 🏆 207 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,16 +59,17 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ██████████████████████░░░   88.80 % 
-Rust                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   5 hrs 26 mins       ████████████████████░░░░░   78.70 % 
+Go                       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Rust                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 08:45:06 UTC
+ Last Updated on 22/04/2025 08:45:12 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
