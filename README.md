@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C877%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 245.1 kB Used in GitHub's Storage 
+> 📦 245.2 kB Used in GitHub's Storage 
  > 
-> 🏆 215 Contributions in the Year 2025
+> 🏆 222 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,17 +59,17 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     3 hrs 32 mins       █████████████░░░░░░░░░░░░   53.20 % 
-Python                   2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Rust                     5 hrs 3 mins        ███████████████░░░░░░░░░░   61.46 % 
+Python                   2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -85,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 08:42:22 UTC
+ Last Updated on 02/05/2025 08:43:58 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
