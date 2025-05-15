@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C881%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C883%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 245.2 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2025
+> 🏆 223 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Friday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Monday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 ```
 
 
@@ -59,13 +59,16 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 47 mins        ████████████████░░░░░░░░░   64.30 % 
+Rust                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +84,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 08:46:21 UTC
+ Last Updated on 15/05/2025 08:46:07 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
