@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 254.4 kB Used in GitHub's Storage 
+> 📦 254.2 kB Used in GitHub's Storage 
  > 
 > 🏆 345 Contributions in the Year 2025
  > 
@@ -81,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 08:45:17 UTC
+ Last Updated on 21/08/2025 08:45:22 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
