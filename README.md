@@ -59,14 +59,13 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 46 mins       ████████████████████████░   97.07 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -82,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 08:43:49 UTC
+ Last Updated on 30/08/2025 08:38:11 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
