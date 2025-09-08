@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -59,13 +59,17 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        6 hrs 6 mins        ███████████████████████░░   93.27 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Assembly                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+GDB                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -81,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 08:37:11 UTC
+ Last Updated on 08/09/2025 08:46:56 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
