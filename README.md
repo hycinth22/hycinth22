@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 255.1 kB Used in GitHub's Storage 
+> 📦 255.2 kB Used in GitHub's Storage 
  > 
-> 🏆 407 Contributions in the Year 2025
+> 🏆 415 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,6 +40,34 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 271 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Friday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -53,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 08:39:52 UTC
+ Last Updated on 24/09/2025 08:43:07 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
