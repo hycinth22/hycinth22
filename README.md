@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2042%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 255.4 kB Used in GitHub's Storage 
+> 📦 255.5 kB Used in GitHub's Storage 
  > 
-> 🏆 432 Contributions in the Year 2025
+> 🏆 440 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,48 +38,20 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+**I Mostly Code in Rust** 
 
 ```text
-Monday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Saturday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Rust                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Rust                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+C++                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
 
 
- Last Updated on 27/09/2025 08:34:53 UTC
+ Last Updated on 28/09/2025 08:35:16 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
