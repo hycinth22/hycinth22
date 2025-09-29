@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2042%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 255.5 kB Used in GitHub's Storage 
+> 📦 255.6 kB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2025
+> 🏆 442 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -38,6 +40,34 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Wednesday                258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Saturday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -51,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 08:35:16 UTC
+ Last Updated on 29/09/2025 08:44:41 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
