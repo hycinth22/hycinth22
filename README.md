@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C065%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C065%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 256.6 kB Used in GitHub's Storage 
+> 📦 257.8 kB Used in GitHub's Storage 
  > 
-> 🏆 447 Contributions in the Year 2025
+> 🏆 456 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,15 +59,15 @@ Sunday                   182 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     20 mins             ██████████████░░░░░░░░░░░   56.63 % 
-TOML                     11 mins             ████████░░░░░░░░░░░░░░░░░   32.63 % 
-Typst                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Rust                     20 mins             ███████████████░░░░░░░░░░   58.48 % 
+TOML                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Typst                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,7 +83,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2025 08:45:02 UTC
+ Last Updated on 28/10/2025 08:44:25 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
