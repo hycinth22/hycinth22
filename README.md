@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 258.1 kB Used in GitHub's Storage 
+> 📦 255.4 kB Used in GitHub's Storage 
  > 
 > 🏆 456 Contributions in the Year 2025
  > 
@@ -81,7 +81,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2025 08:45:36 UTC
+ Last Updated on 27/11/2025 08:46:01 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
