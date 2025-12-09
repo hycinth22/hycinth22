@@ -59,13 +59,13 @@ Sunday                   182 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +81,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 08:49:35 UTC
+ Last Updated on 09/12/2025 08:47:52 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
