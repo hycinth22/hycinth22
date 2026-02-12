@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > 📦 262.7 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 41 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,14 +59,13 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    9 mins              █████████████████████░░░░   83.22 % 
-Rust                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Typst                    9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +81,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 09:09:00 UTC
+ Last Updated on 12/02/2026 09:07:27 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
