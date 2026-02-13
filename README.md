@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 262.7 kB Used in GitHub's Storage 
+> 📦 262.8 kB Used in GitHub's Storage 
  > 
 > 🏆 41 Contributions in the Year 2026
  > 
@@ -59,13 +59,13 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +81,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 09:07:27 UTC
+ Last Updated on 13/02/2026 09:03:53 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
