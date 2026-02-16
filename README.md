@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C095%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C096%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,13 +59,15 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 35 mins        █████████████████████░░░░   82.67 % 
+TOML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +83,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 08:51:44 UTC
+ Last Updated on 16/02/2026 09:08:37 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
