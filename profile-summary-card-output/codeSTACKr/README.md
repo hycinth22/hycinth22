@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
