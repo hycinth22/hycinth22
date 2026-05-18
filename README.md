@@ -24,64 +24,34 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C139%20hrs%209%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.0 kB Used in GitHub's Storage 
+> 📦 280.0 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 89 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Tuesday                  407 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Wednesday                367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Thursday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Saturday                 444 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Sunday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
-C++                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Rust                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Typst                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C++                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Rust                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Typst                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 10:00:51 UTC
+ Last Updated on 18/05/2026 11:54:47 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
