@@ -40,34 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  407 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Wednesday                367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Thursday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Friday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Saturday                 444 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Sunday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -81,7 +53,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 10:23:25 UTC
+ Last Updated on 07/06/2026 10:37:17 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
